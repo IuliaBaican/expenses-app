@@ -10,4 +10,5 @@ Here is a working live demo : https://expenses-project-54cbc.web.app/
 
 # Technologies
  - React
+ - Firebase Hosting
 
